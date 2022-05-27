@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suman Adhikari</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
  ## I'm a Software Engineering Student .
 
