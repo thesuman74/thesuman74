@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other programmers .
-- 🥅 2022 Goals: Learn more about web3 and make coding habit .
+- 🥅 2024 Goals: Learn more about AI and ML.
 - ⚡ Fun fact: I am addicted to coding and songs .
 - 💬 Ask me about coding and movies stuffs .
 - 📫 Not much active in social medias .
